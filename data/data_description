@@ -1,1 +1,10 @@
 Data for wind chill days in Alaska from Historical (CTRL) and PGW simulations
+
+# Latitude and Longitude across Alaska
+xy_coord_AK.rds
+
+# Files on total number of wind chill days during simulation period across Alaska
+Res03_ndays_wc_hist.RDS # Historical simulation
+Res03_ndays_wc_pgw.RDS  # PGW simulation
+Res03_ndays_wc_pgw_t2_ctl.RDS # PGW simulation ("PGW_WS" scenario)
+Res03_ndays_wc_pgw_ws_ctl.RDS # PGW simulation ("PGW_T" scenario)
