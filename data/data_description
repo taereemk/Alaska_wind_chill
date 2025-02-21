@@ -1,7 +1,8 @@
 # Latitude and Longitude across Alaska
 xy_coord_AK.rds
 
-# Files on total number of extreme wind chill days ((EWCD; i.e., days with WCT < -34.4 °C) during simulation period in Alaska
+# Files containing the total number of extreme wind chill days (EWCD; i.e., days with WCT < -34.4 °C) 
+# for each calendar day during the simulation period in Alaska
 Res03_ndays_wc_hist.RDS # Historical simulation
 Res03_ndays_wc_pgw.RDS  # PGW simulation
 Res03_ndays_wc_pgw_t2_ctl.RDS # PGW simulation ("PGW_WS" scenario)
